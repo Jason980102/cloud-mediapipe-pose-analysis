@@ -1,0 +1,27 @@
+{
+  "model_version": "human-labeled-v2",
+  "label_source": "manual human labels",
+  "evaluation_type": "5-fold human-labeled cross validation",
+  "accuracy": 0.9035294117647059,
+  "accuracy_note": "This accuracy is based on manually labeled validation data.",
+  "num_samples": 425,
+  "num_classes": 5,
+  "classes": [
+    "axe_kick",
+    "back_kick",
+    "front_kick",
+    "roundhouse_kick",
+    "side_kick"
+  ],
+  "class_distribution": {
+    "back_kick": 95,
+    "side_kick": 85,
+    "axe_kick": 84,
+    "front_kick": 82,
+    "roundhouse_kick": 79
+  },
+  "feature_count": 1238,
+  "model_path": "/content/drive/MyDrive/taekwondo_model_outputs_human_labeled_v2/taekwondo_motion_classifier_random_forest.joblib",
+  "prediction_path": "/content/drive/MyDrive/taekwondo_model_outputs_human_labeled_v2/taekwondo_per_video_predictions.csv",
+  "confusion_matrix_path": "/content/drive/MyDrive/taekwondo_model_outputs_human_labeled_v2/taekwondo_confusion_matrix.png"
+}

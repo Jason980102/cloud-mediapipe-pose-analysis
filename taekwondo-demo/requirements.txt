@@ -1,0 +1,10 @@
+streamlit
+mediapipe
+opencv-python
+pandas
+numpy
+scikit-learn
+boto3
+joblib
+imageio
+imageio-ffmpeg

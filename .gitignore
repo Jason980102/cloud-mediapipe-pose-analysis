@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+taekwondo-demo/outputs/
+taekwondo-demo/streamlit.log
+data/*.mp4
+results/*.mp4
+*.MOV
