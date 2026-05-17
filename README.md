@@ -1,4 +1,4 @@
-# Cloud Pose Analysis System
+# Cloud-Based Intelligent Taekwondo Motion Classification System
 
 This project uses MediaPipe Pose to extract human body landmarks from video and performs posture analysis in the cloud.
 
