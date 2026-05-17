@@ -60,3 +60,12 @@ The system supports:
 notebooks/          # Colab preprocessing and training notebooks
 src/                # Pose processing source code
 taekwondo-demo/     # Streamlit frontend application
+
+```
+
+## Live Demo
+
+Temporary Streamlit Demo URL:  
+http://3.19.53.82:8501/
+
+Note: This demo is hosted on an AWS EC2 instance. The link may become unavailable if the EC2 instance is stopped, the security group is changed, or the cloud service is no longer running.
